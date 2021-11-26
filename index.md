@@ -7,23 +7,4 @@ This site has been built for educational purposes and to demonstrate the potenti
 https://webchat.hybridirc.com/#newyorkweeddelivery
 
 # - [New York Weed Delivery/](https://newyorkweeddelivery.hns.to/)
-
-
-      import { Widget } from '@maticnetwork/wallet-widget'
-
-      const widget = new Widget({
-        target: '',
-        appName: 'inetwork',
-        autoShowTime: 0,
-        position: 'top-left',
-        height: 630,
-        width: 540,
-        overlay: false,
-        network: 'mainnet',
-        closable: true,
-      });
-
-      widget.create()
-
-      widget.show()
-    
+      
