@@ -3,6 +3,7 @@
 This site has been built for educational purposes and to demonstrate the potential of Handshake Domains for the project [Cannabis Hacks](https://cannabis.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open)
 
 # Channel Within [#newyorkweeddelivery](https://webchat.hybridirc.com/#newyorkweeddelivery)
+- Type in any nickname below and click start to chat. No password needed.
 <iframe src="https://kiwiirc.hybridirc.com/#newyorkweeddelivery" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
 https://webchat.hybridirc.com/#newyorkweeddelivery
 
